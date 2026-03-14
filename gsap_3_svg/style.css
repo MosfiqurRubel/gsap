@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: #111;
+  color: #f5f5f5;
+  line-height: 1.6;
+}
+
+#string {
+  text-align: center;
+}
